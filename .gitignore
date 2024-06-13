@@ -7,3 +7,10 @@ dependency-reduced-pom.xml
 .settings/
 .vscode
 .DS_Store
+documentation.txt
+/build
+*.txt
+*.js
+!Main.js
+
+
